@@ -1,28 +1,37 @@
-## Omar Ahmed
+## 👋 Hi, I'm Nour Raafat, a data science enthusiast passionate about exploring the realms of artificial intelligence and machine learning.
 
-I'm a passionate data scientist with a strong interest in artificial intelligence and machine learning. I'm skilled in applying these techniques to solve real-world problems.
+### About Me
+#### 👀 I'm deeply interested in data science, AI, and machine learning, and I'm always eager to learn and explore new concepts and technologies in these fields.
+#### 🌱 Currently, I'm actively learning and enhancing my skills in AI and machine learning to tackle complex real-world problems and create innovative solutions.
+#### 💼 I'm open to collaborating on exciting projects in the areas of data science, AI, and machine learning. If you have any interesting projects or ideas, feel free to reach out to me!
+Contact Me
+## 📧 Email: nourraafat51@gmail.com
 
-**Technical Skills**
+## Projects
+Here are some of the projects I've worked on:
 
-* Programming Languages: Python, R
-* Machine Learning Libraries: NumPy, pandas, scikit-learn
-* Deep Learning Frameworks: TensorFlow, PyTorch
-* Other Relevant Skills: SQL, AWS Cloud
 
-**Education**
 
-* Master of Science in Data Science
-* University of Excellence
-* 2023
+#### Implemented machine learning models  
+Repository: Sentiment Analysis Project
+Predictive Maintenance with Machine Learning
 
-**Projects**
+Developed predictive maintenance models using machine learning algorithms.
+Predicted equipment failures and optimized maintenance schedules to reduce downtime.
+Repository: Predictive Maintenance Project
+Image Classification with Convolutional Neural Networks
 
-* **Stock Price Prediction with Machine Learning:** Developed a machine learning model to predict stock prices using historical data and financial analysis. (Python, scikit-learn)
-* **Image Classification with Deep Learning:** Built a convolutional neural network to classify images into different categories. (Python, TensorFlow)
-* **Natural Language Processing for Text Summarization:** Implemented a text summarization model using NLP techniques. (Python, NLTK)
+Built CNN models for image classification tasks.
+Trained models to classify images into different categories.
+Repository: Image Classification Project
 
-**Contact**
-
-* Email: omar.ahmed@example.com
-* LinkedIn: https://www.linkedin.com/in/omar-ahmed/
-* GitHub: https://github.com/omarahmed
+## Skills
+Python
+Machine Learning
+Deep Learning
+Natural Language Processing
+Data Visualization
+Data Analysis
+SQL
+Education
+Bachelor's Degree in Computer Science
