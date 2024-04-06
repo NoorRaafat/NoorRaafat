@@ -27,11 +27,19 @@ Repository: Image Classification Project
 
 ## Skills
 Python
+
 Machine Learning
+
 Deep Learning
+
 Natural Language Processing
+
 Data Visualization
+
 Data Analysis
+
 SQL
-Education
+
+## Education
+
 Bachelor's Degree in Computer Science
