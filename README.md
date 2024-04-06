@@ -1,67 +1,28 @@
-<div align="center">
-  <img height="150" src=""  />
-</div>
+## Omar Ahmed
 
-###
+I'm a passionate data scientist with a strong interest in artificial intelligence and machine learning. I'm skilled in applying these techniques to solve real-world problems.
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+**Technical Skills**
 
-###
+* Programming Languages: Python, R
+* Machine Learning Libraries: NumPy, pandas, scikit-learn
+* Deep Learning Frameworks: TensorFlow, PyTorch
+* Other Relevant Skills: SQL, AWS Cloud
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+**Education**
 
-###
+* Master of Science in Data Science
+* University of Excellence
+* 2023
 
-<h1 align="center">hey there 👋</h1>
+**Projects**
 
-###
+* **Stock Price Prediction with Machine Learning:** Developed a machine learning model to predict stock prices using historical data and financial analysis. (Python, scikit-learn)
+* **Image Classification with Deep Learning:** Built a convolutional neural network to classify images into different categories. (Python, TensorFlow)
+* **Natural Language Processing for Text Summarization:** Implemented a text summarization model using NLP techniques. (Python, NLTK)
 
-<h3 align="left">👩‍💻  About Me</h3>
+**Contact**
 
-###
-
-<p align="left">I'm Nour from Mans <br><br>- :wave: I’m working as  Data scientist <br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+* Email: omar.ahmed@example.com
+* LinkedIn: https://www.linkedin.com/in/omar-ahmed/
+* GitHub: https://github.com/omarahmed
