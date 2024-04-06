@@ -13,7 +13,7 @@ Here are some of the projects I've worked on:
 
 
 #### Implemented machine learning models  
-Repository: Sentiment Analysis Project
+
 Predictive Maintenance with Machine Learning
 
 Developed predictive maintenance models using machine learning algorithms.
