@@ -3,11 +3,13 @@
 
 
 
+
 ### - 👋 Hi, I’m NoorRaafat
 ### - 👀 I’m interested in data science , AI ,machine learning, data analysis and software engineering
 ### - 🧠 I'm always eager to learn and explore new concepts and technologies in these fields.
 ### - 🌱 I’m currently learning  AI and machine learning
-### - 💼 I’m looking to collaborate on ai engineer opportunities and projects in the areas of data science. If you have any interesting projects or ideas, feel free to reach out to me! 
+### - 💼 I’m looking to collaborate on ai engineer opportunities and projects in the areas of data science. 
+### - 💕 If you have any interesting projects or ideas, feel free to reach out to me! 
 ### - 📧 Email: nourraafat51@gmail.com
 
 
@@ -16,42 +18,43 @@ Here are some of the projects I've worked on:
 
 #### Implemented machine learning models  
 
-Predictive Maintenance with Machine Learning
+#### Predictive Maintenance with Machine Learning
 
-Developed predictive maintenance models using machine learning algorithms.
+#### Developed predictive maintenance models using machine learning algorithms.
 
-Predicted equipment failures and optimized maintenance schedules to reduce downtime.
+#### Predicted equipment failures and optimized maintenance schedules to reduce downtime.
 
-Repository: Predictive Maintenance Project
+#### Repository: Predictive Maintenance Project
 
-Image Classification with Convolutional Neural Networks
+#### Image Classification with Convolutional Neural Networks
 
-Built CNN models for image classification tasks.
+#### Built CNN models for image classification tasks.
 
-Trained models to classify images into different categories.
+#### Trained models to classify images into different categories.
 
 ## Skills
-Python
 
-Machine Learning
+#### Python
 
-Deep Learning
+#### Machine Learning
 
-Natural Language Processing
+#### Deep Learning
 
-Data Science
+#### Natural Language Processing
 
-Data Visualization
+#### Data Science
 
-Data Analysis
+#### Data Visualization
 
-SQL
+#### Data Analysis
 
-C Language
+#### SQL
 
-C++
+#### C Language
 
-NO SQL
+#### C++
+
+#### NO SQL
 
 
 ## Education
