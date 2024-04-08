@@ -15,11 +15,11 @@
 ### - 🌱 I’m currently learning  AI and machine learning
 ### - 💼 I’m looking to collaborate on ai engineer opportunities and projects in the areas of data science. 
 ### - 💕 If you have any interesting projects or ideas, feel free to reach out to me! 
-### - 📧 Email: logo" />
-  </a>
+ - 📧 :  </a>
   <a href="https://www.linkedin.com/in/nour-raafat-756484219/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
+ 
 
 
 ###
