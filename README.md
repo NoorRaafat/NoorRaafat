@@ -15,8 +15,11 @@
 ### - 🌱 I’m currently learning  AI and machine learning
 ### - 💼 I’m looking to collaborate on ai engineer opportunities and projects in the areas of data science. 
 ### - 💕 If you have any interesting projects or ideas, feel free to reach out to me! 
-### - 📧 :  </a> <a href="https://www.linkedin.com/in/nour-raafat-756484219/">   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+### - How to reach me gmail: nourraafat51@gmail.com
+
+### -  </a> <a href="https://www.linkedin.com/in/nour-raafat-756484219/">   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
  </a>
+
  
 
 
@@ -25,21 +28,9 @@
 <br clear="both">
 
 ###
-  </a>
-  <a href="nourraafat51@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/nour-raafat-756484219/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
+ 
 
 
-
-###
-
-<br clear="both">
-
-###
 
 
 ## Projects
