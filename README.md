@@ -14,7 +14,8 @@
 
 
 ## Projects
-Here are some of the projects I've worked on:
+
+### Here are some of the projects I've worked on:
 
 #### Implemented machine learning models  
 
