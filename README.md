@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nour Mohamed Raafat</h1>
-<h3 align="center">👀A data science enthusiast passionate about exploring the realms of artificial intelligence and machine learnin</h3>
+<h3 align="center">A data science enthusiast passionate about exploring the realms of artificial intelligence and machine learnin</h3>
 
 
 - 👀 I’m interested in data science , AI ,machine learning, data analysis and software engineering **.**
