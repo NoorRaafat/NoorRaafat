@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nour Mohamed Raafat</h1>
 <h3 align="center">👀A data science enthusiast passionate about exploring the realms of artificial intelligence and machine learnin</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noorraafat&label=Profile%20views&color=0e75b6&style=flat" alt="noorraafat" /> </p>
 
 - 👀 I’m interested in data science , AI ,machine learning, data analysis and software engineering **.**
 
