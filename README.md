@@ -8,7 +8,7 @@
 
 - 🧠 I'm always eager to learn and explore new concepts and technologies in these fields. **.**
 
-- 🌱 I’m currently learning **learning AI and machine learning**
+- 🌱 I’m currently **learning AI and machine learning**
 
 - 💌 How to reach me **nourraafat51@gmail.com**
 
