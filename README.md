@@ -12,7 +12,7 @@
 
 - 💌 How to reach me **nourraafat51@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1YJG_H7oFCMH4ygRWg9x7qQjO0D2Hb1v56ZZRQqyrNuM/edit?usp=sharing](https://docs.google.com/document/d/1YJG_H7oFCMH4ygRWg9x7qQjO0D2Hb1v56ZZRQqyrNuM/edit?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1o28lJ1rEgi8jdjSfFQi4fqs_SyJBoDXI/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
